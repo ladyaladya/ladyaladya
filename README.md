@@ -1,6 +1,6 @@
 [![Header](https://github.com/ladyaladya/ladyaladya/blob/main/assets/git.txt)](https://github.com/ladyaladya)
 
-## I'm Vladyslav Vyshnivskyi and a beginner Software Engineer
+## I'm Vladyslav Vyshnivskyi - beginner Software Engineer
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=.net)
@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&)
 
-### Social media
+### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladyslav-vyshnivskyi-569717197/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/vyshnivskyi)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100011398862513)
