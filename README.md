@@ -1,4 +1,4 @@
-[![Header](https://github.com/ladyaladya/ladyaladya/blob/main/assets/git.png)](https://github.com/ladyaladya)
+[![Header](https://github.com/ladyaladya/ladyaladya/blob/main/assets/git.txt)](https://github.com/ladyaladya)
 
 ## I'm Vladyslav Vyshnivskyi and a beginner Software Engineer
 
