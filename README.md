@@ -1,6 +1,6 @@
 [![Header](https://github.com/ladyaladya/ladyaladya/blob/main/assets/git.txt)](https://github.com/ladyaladya)
 
-## I'm Vladyslav Vyshnivskyi - beginner Software Engineer
+## I'm Vladyslav Vyshnivskyi - .NET Web Developer
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=.net)
